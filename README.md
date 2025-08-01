@@ -1,6 +1,6 @@
-# 🤖 API Fusion - The Kanye Info App
+# 🤖 API Fusion - DHRUV RATHOD (ST10109298)
 
-Welcome to **API Fusion**, the ultimate Android app that fuses the power of random Kanye wisdom with statistical name-based predictions!
+Welcome to **API Fusion**, the ultimate Android app that fuses the power of random Kanye wisdom with statistical name-based predictions done by the greatest team consisting of me, myself and I!
 
 ## 📱 What It Does
 
