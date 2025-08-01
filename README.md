@@ -60,7 +60,7 @@ This app:
 
 ## 🧵 License
 
-[MIT License] — but if Kanye asks for royalties, just give him your sunglasses.
+[MIT License](LICENSE.md) — but if Kanye asks for royalties, just give him your sunglasses.
 
 
 
